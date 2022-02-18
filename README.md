@@ -7,3 +7,8 @@ GRIT - Greatness Requires Internal Toughness
 
 have a growth mindset Dawg
 
+## Fixed Mindset
+
+1. open index.html in your browser
+
+
